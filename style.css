@@ -1,23 +1,27 @@
 .nav-bar {
-    text-align: center;
+  text-align: center;
 }
 
 .nav-list {
-    list-style-type:none;
+  list-style-type: none;
 }
 
-.nav-list li{
-    padding:10px;
-    display: inline-block;
+.nav-list li {
+  padding: 10px;
+  display: inline-block;
 }
 
 body {
-    margin-left:20%;
-    margin-right:20%;
-    margin-top:2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
 }
 
 .page-group {
-    padding-top:20px;
-    padding-bottom:20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+img {
+  width: "500px";
 }
