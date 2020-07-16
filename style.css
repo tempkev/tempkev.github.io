@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+nav {
+  border-style: solid;
+  border-color: #ecb865;
+  border-width: 0.4em;
+  background-color: #638c7d;
+}
+
 .nav-list {
   list-style-type: none;
 }
@@ -24,4 +31,44 @@ body {
 
 img {
   width: 500px;
+}
+
+body {
+  background-color: #cdd4db
+}
+
+.pic-page {
+  background-color: #404b59;
+  color: #d0e1b7;
+}
+
+.name {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:1000;
+}
+
+.text-block1 {
+  background-color: #d0e1b7;
+}
+
+.text-block2 {
+  background-color: #aac9a3
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-alpha;
+}
+
+a:hover {
+  color:#ffffff
+}
+
+.intro, .name {
+  margin: 0;
+  padding: 0;
+  display: inline;
 }
